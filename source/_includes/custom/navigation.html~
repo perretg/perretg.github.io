@@ -1,0 +1,9 @@
+<ul class="main-navigation">
+  <li><a href="{{ root_url }}/home">Home</a></li>
+  <li><a href="{{ root_url }}/blog">Blog</a></li>
+  <li><a href="{{ root_url }}/blog/archives">Archives</a></li>
+  <li><a href="{{ root_url }}/energy-saving">Energy Saving</a></li>
+  <li><a href="{{ root_url }}/energy-recycling">Energy Recycling</a></li>
+  <li><a href="{{ root_url }}/sustainable-energies">Sustainable Energies</a></li>
+  <li><a href="{{ root_url }}/contact">Contact</a></li>
+</ul>
