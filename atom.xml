@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Green ILC]]></title>
+  <link href="http://perretg.github.io/atom.xml" rel="self"/>
+  <link href="http://perretg.github.io/"/>
+  <updated>2014-08-04T19:44:45+02:00</updated>
+  <id>http://perretg.github.io/</id>
+  <author>
+    <name><![CDATA[Green ILC team]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[New Post]]></title>
+    <link href="http://perretg.github.io/blog/2014/08/04/new-post/"/>
+    <updated>2014-08-04T19:44:15+02:00</updated>
+    <id>http://perretg.github.io/blog/2014/08/04/new-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>

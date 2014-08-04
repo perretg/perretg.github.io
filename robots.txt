@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://perretg.github.io/sitemap.xml 
