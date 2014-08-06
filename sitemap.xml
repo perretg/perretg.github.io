@@ -1,51 +1,83 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
-    <url>
-        <loc>http://perretg.github.io/blog/2014/08/04/new-post/</loc>
-        <lastmod>2014-08-04T19:44:15+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://perretg.github.io/blog/</loc>
-        <lastmod>2014-08-04T19:44:15+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://perretg.github.io/blog/archives/</loc>
-        <lastmod>2014-08-04T19:44:15+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://perretg.github.io/energy-recycling/</loc>
-        <lastmod>2014-08-04T18:13:20+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://perretg.github.io/energy-saving/</loc>
-        <lastmod>2014-07-29T11:44:59+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://perretg.github.io/index-old.html</loc>
-        <lastmod>2014-07-29T11:44:59+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://perretg.github.io/home/</loc>
-        <lastmod>2014-07-29T11:44:59+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://perretg.github.io/sustainable-energies/</loc>
-        <lastmod>2014-07-29T11:44:59+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://perretg.github.io/contacts/</loc>
-        <lastmod>2014-07-29T11:44:59+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://perretg.github.io/robots.txt</loc>
-        <lastmod>2014-07-29T11:45:00+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://perretg.github.io/research/</loc>
-        <lastmod>2014-08-04T01:00:55+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://perretg.github.io/</loc>
-        <lastmod>2014-08-04T01:04:43+02:00</lastmod>
-    </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  <url>
+    <loc>http://perretg.github.io/blog/2014/08/04/new-post/</loc>
+    <lastmod>2014-08-04T19:44:15+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://perretg.github.io/index-old.html</loc>
+    <lastmod>2014-08-06T15:40:35+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://perretg.github.io/blog/archives/</loc>
+    <lastmod>2014-08-06T15:40:35+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://perretg.github.io/blog/</loc>
+    <lastmod>2014-08-06T15:40:35+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://perretg.github.io/energy-saving/</loc>
+    <lastmod>2014-08-06T15:40:35+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://perretg.github.io/documents/</loc>
+    <lastmod>2014-08-06T15:40:35+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://perretg.github.io/energy-recycling/</loc>
+    <lastmod>2014-08-06T15:40:35+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://perretg.github.io/sustainable-energies/</loc>
+    <lastmod>2014-08-06T15:40:35+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://perretg.github.io/</loc>
+    <lastmod>2014-08-06T15:40:35+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://perretg.github.io/contacts/</loc>
+    <lastmod>2014-08-06T15:40:35+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://perretg.github.io/research/</loc>
+    <lastmod>2014-08-06T15:40:35+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
 </urlset>
