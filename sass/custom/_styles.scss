@@ -5,3 +5,96 @@
 //     background-repeat: no-repeat;
 //}
 
+aside.sidebar li {
+padding: 0;
+border-bottom-width: 0px;
+-webkit-box-shadow: $sidebar-bg 0 0px;
+-moz-box-shadow: $sidebar-bg 0 0px;
+box-shadow: $sidebar-bg 0 0px
+}
+aside.sidebar li li {
+padding-left: 0.5em;
+}
+aside.sidebar li li li {
+padding-left: 1em;
+}
+// added for the photo layout
+header.condensed {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+h1.condensed {
+    display: inline;
+    font-size: 90%;
+}
+
+h2.condensed {
+   display: inline;
+   font-size: 80%;
+   margin-left: 1em;
+}
+
+div#main.photo {
+ border: 0;
+ }
+
+div#content.photo {
+ border: 0;
+ }
+
+div#photoExifDiv tr {
+  border-bottom: 1px dotted #ddd;
+}
+
+div#photoExifDiv tr th {
+   font-family: $sans;
+   padding-right: 2em;
+   border: 0;
+}
+
+div#photoExifDiv tr td {
+   border: 0;
+}
+
+
+div.photoThumbnail {
+ float: left;
+ margin-right: 1em;
+ margin-bottom: 0.5em;
+ }
+
+.google-form-wrapper {
+  .error {
+    color: red;
+    font-size: 12px;
+  }
+  .errorbox-good {
+    margin-bottom: 20px;
+  }
+  .success-msg {
+    display: none;
+  }
+  .ss-form-entry {
+    label {
+      display:block;
+    }
+    input {
+      display: block;
+      padding: 5px;
+      width: 250px;
+      font: inherit;
+    }
+    textarea {
+      width: 450px;
+      padding: 5px;
+      font: inherit;
+    }
+  }
+  .ss-navigate input {
+    width: auto;
+    cursor: pointer;
+  }
+}
