@@ -10,99 +10,92 @@
   
   
   <url>
-    <loc>http://perretg.github.io/atom.html</loc>
-    <lastmod>2014-08-15T19:01:21+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
     <loc>http://perretg.github.io/index-old.html</loc>
-    <lastmod>2014-08-15T19:01:21+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>http://perretg.github.io/blog/archives/</loc>
-    <lastmod>2014-08-15T19:01:21+02:00</lastmod>
+    <lastmod>2014-08-20T15:37:25+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://perretg.github.io/blog/</loc>
-    <lastmod>2014-08-15T19:01:21+02:00</lastmod>
+    <lastmod>2014-08-20T15:37:25+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://perretg.github.io/links/</loc>
-    <lastmod>2014-08-15T19:01:21+02:00</lastmod>
+    <loc>http://perretg.github.io/blog/archives/</loc>
+    <lastmod>2014-08-20T15:37:25+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://perretg.github.io/home/</loc>
-    <lastmod>2014-08-15T19:01:21+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>http://perretg.github.io/contacts/</loc>
-    <lastmod>2014-08-15T19:01:21+02:00</lastmod>
+    <loc>http://perretg.github.io/documents/</loc>
+    <lastmod>2014-08-20T15:37:25+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://perretg.github.io/conferences/</loc>
-    <lastmod>2014-08-15T19:01:21+02:00</lastmod>
+    <lastmod>2014-08-20T15:37:25+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://perretg.github.io/home/</loc>
+    <lastmod>2014-08-20T15:37:25+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://perretg.github.io/links/</loc>
+    <lastmod>2014-08-20T15:37:25+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://perretg.github.io/research/sustainable-energy/</loc>
-    <lastmod>2014-08-15T19:01:21+02:00</lastmod>
+    <lastmod>2014-08-20T15:37:25+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://perretg.github.io/research/</loc>
-    <lastmod>2014-08-15T19:01:21+02:00</lastmod>
+    <lastmod>2014-08-20T15:37:25+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://perretg.github.io/</loc>
-    <lastmod>2014-08-15T19:01:21+02:00</lastmod>
+    <lastmod>2014-08-20T15:37:25+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>http://perretg.github.io/documents/</loc>
-    <lastmod>2014-08-15T19:01:21+02:00</lastmod>
+    <loc>http://perretg.github.io/contacts/</loc>
+    <lastmod>2014-08-20T15:37:25+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://perretg.github.io/research/recovering-recycling-energy/</loc>
-    <lastmod>2014-08-15T19:01:21+02:00</lastmod>
+    <lastmod>2014-08-20T15:37:25+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://perretg.github.io/research/saving-energy/</loc>
-    <lastmod>2014-08-15T19:01:21+02:00</lastmod>
+    <lastmod>2014-08-20T15:37:25+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
