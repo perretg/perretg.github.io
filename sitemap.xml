@@ -3,106 +3,117 @@
   
   
   <url>
-    <loc>http://perretg.github.io/blog/2014/08/06/the-site-is-now-open/</loc>
+    <loc>http://green-ilc.in2p3.fr/blog/2014/08/26/mega-solar-plant-in-japan/</loc>
+    <lastmod>2014-08-26T15:16:20+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://green-ilc.in2p3.fr/blog/2014/08/26/ivanpah-largest-solar-plant/</loc>
+    <lastmod>2014-08-26T14:54:59+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://green-ilc.in2p3.fr/blog/2014/08/26/ess-gets-the-green-light/</loc>
+    <lastmod>2014-08-26T14:19:58+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://green-ilc.in2p3.fr/blog/2014/08/06/the-site-is-now-open/</loc>
     <lastmod>2014-08-06T20:32:10+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   
   <url>
-    <loc>http://perretg.github.io/index-old.html</loc>
-    <lastmod>2014-08-20T15:37:25+02:00</lastmod>
+    <loc>http://green-ilc.in2p3.fr/blog/</loc>
+    <lastmod>2014-08-26T15:26:55+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://perretg.github.io/blog/</loc>
-    <lastmod>2014-08-20T15:37:25+02:00</lastmod>
+    <loc>http://green-ilc.in2p3.fr/blog/archives/</loc>
+    <lastmod>2014-08-26T15:26:55+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://perretg.github.io/blog/archives/</loc>
-    <lastmod>2014-08-20T15:37:25+02:00</lastmod>
+    <loc>http://green-ilc.in2p3.fr/links/</loc>
+    <lastmod>2014-08-26T15:26:55+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://perretg.github.io/documents/</loc>
-    <lastmod>2014-08-20T15:37:25+02:00</lastmod>
+    <loc>http://green-ilc.in2p3.fr/conferences/</loc>
+    <lastmod>2014-08-26T15:26:55+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://perretg.github.io/conferences/</loc>
-    <lastmod>2014-08-20T15:37:25+02:00</lastmod>
+    <loc>http://green-ilc.in2p3.fr/home/</loc>
+    <lastmod>2014-08-26T15:26:55+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://perretg.github.io/home/</loc>
-    <lastmod>2014-08-20T15:37:25+02:00</lastmod>
+    <loc>http://green-ilc.in2p3.fr/documents/</loc>
+    <lastmod>2014-08-26T15:26:55+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://perretg.github.io/links/</loc>
-    <lastmod>2014-08-20T15:37:25+02:00</lastmod>
+    <loc>http://green-ilc.in2p3.fr/research/sustainable-energy/</loc>
+    <lastmod>2014-08-26T15:26:55+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://perretg.github.io/research/sustainable-energy/</loc>
-    <lastmod>2014-08-20T15:37:25+02:00</lastmod>
+    <loc>http://green-ilc.in2p3.fr/research/</loc>
+    <lastmod>2014-08-26T15:26:55+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://perretg.github.io/research/</loc>
-    <lastmod>2014-08-20T15:37:25+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>http://perretg.github.io/</loc>
-    <lastmod>2014-08-20T15:37:25+02:00</lastmod>
+    <loc>http://green-ilc.in2p3.fr/</loc>
+    <lastmod>2014-08-26T15:26:55+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>http://perretg.github.io/contacts/</loc>
-    <lastmod>2014-08-20T15:37:25+02:00</lastmod>
+    <loc>http://green-ilc.in2p3.fr/contacts/</loc>
+    <lastmod>2014-08-26T15:26:55+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://perretg.github.io/research/recovering-recycling-energy/</loc>
-    <lastmod>2014-08-20T15:37:25+02:00</lastmod>
+    <loc>http://green-ilc.in2p3.fr/research/recovering-recycling-energy/</loc>
+    <lastmod>2014-08-26T15:26:55+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://perretg.github.io/research/saving-energy/</loc>
-    <lastmod>2014-08-20T15:37:25+02:00</lastmod>
+    <loc>http://green-ilc.in2p3.fr/research/saving-energy/</loc>
+    <lastmod>2014-08-26T15:26:55+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   
   <url>
-    <loc>http://perretg.github.io/html/viewform.html</loc>
+    <loc>http://green-ilc.in2p3.fr/html/viewform.html</loc>
     <lastmod>2014-08-15T09:23:51Z</lastmod>
     <priority>0.6</priority>
   </url>

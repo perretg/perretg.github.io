@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://green-ilc.in2p3.fr/sitemap.xml 
