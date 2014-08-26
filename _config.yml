@@ -2,11 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://perretg.github.io
+url: http://green-ilc.in2p3.fr
 title: Green ILC 
 subtitle: Energy for Innovation, Innovation in Energy
 author: Green-ILC Project Team
-simple_search: http://google.com/search?as_sitesearch=green-ilc.in2p3.fr&
+#simple_search: http://google.com/search?as_sitesearch=green-ilc.in2p3.fr&
+simple_search: http://google.com/search
 description: The Green ILC (International Linear Collider) energy project addresses energy issues related to the building and running of large accelerator infrastructures, including the ILC but also of other future collider or accelerator projects. 
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -16,9 +17,9 @@ description: The Green ILC (International Linear Collider) energy project addres
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-show_feeds: false
-# subscribe_rss: /atom.xml
-# subscribe_email: green.accelerators@gmail.com
+show_feeds: true
+subscribe_rss: /atom.xml
+#subscribe_email: green.accelerators@gmail.com
 # RSS feeds can list your email address if you like
 email: green.accelerators@gmail.com
 
@@ -61,7 +62,8 @@ titlecase: true       # Converts page and post titles to titlecase
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
-default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html]
+#default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html]
+default_asides: [asides/recent_posts.html, custom/asides/link.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html]
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
@@ -71,14 +73,29 @@ archives_index_asides: [ asides/recent_posts.html, custom/asides/category_list.h
 # page_asides:
 
 # plugins
-# gems: [octopress-linkblog]
+gems: 
+ - octopress-linkblog
+ 
+permalink_label: "&infin;"
+permalink_label_feed: "&infin; Permalink"
+linklog_marker: "&rarr;"
+linklog_marker_position: after
+linklog_marker_position_feed: after
+standard_post_marker:
+
+#permalink_label: "&#9733;"
+#permalink_label_feed: "&#9733;"
+#linklog_marker:
+#linklog_marker_position:
+#linklog_marker_position_feed:
+#standard_post_marker: "&#9733; " 
 
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: perretg
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true

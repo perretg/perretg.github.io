@@ -7,6 +7,7 @@ require './plugins/raw'
 require 'rubypants'
 
 module OctopressFilters
+
   def self.pre_filter(page)
     if page.ext.match('html|textile|markdown|md|haml|slim|xml')
       input = BacktickCodeBlock::render_code_block(page.content)

@@ -46,13 +46,12 @@ module Jekyll
       unless file.file?
         return "File #{file} could not be found"
       end
-
       Dir.chdir(file_path) do
         contents = file.read
         if contents =~ /\A-{3}.+[^\A]-{3}\n(.+)/m
           contents = $1.lstrip
         end
-        contents = pre_filter(contents)
+ #       contents = OctopressFilters::pre_filter(contents)
         if @raw
           contents
         else

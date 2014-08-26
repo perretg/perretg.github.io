@@ -20,31 +20,43 @@
 //$sidebar-pad-wide: 20px;
 //$sidebar-width-wide: 300px;
 body > header h1 {
-      padding-left:2.5em;
-      text-align:right;
-      @media only screen and (min-width: 432px) {
+//      padding-left:2.5em;
+padding-left:0px;
+      text-align:center;
+      @media only screen and (min-width: 216px) {
+       padding-left:0.0em;
               text-align:left;
       }
+      @media only screen and (min-width: 432px) {
+       padding-left:0px;
+            text-align:left;
+      }
       @media only screen and (min-width: 768px) {
-              padding-left:3em;
+              padding-left:.3em;
       }
       @media only screen and (min-width: 992px) {
-              padding-left:2em;
+              padding-left:.2em;
       }
 }
 
 body > header h2 {
-      padding-left:5.62em;
-      text-align:right;
+//     padding-left:5.62em;
+       padding-left:0px;
+      text-align:left;
+      @media only screen and (min-width: 216px) {
+              padding-left:0px;
+              text-align:left;
+      }
       @media only screen and (min-width: 432px) {
               text-align:left;
               padding-left:3.9em;
       }
       @media only screen and (min-width: 768px) {
-              padding-left:5em;
+              padding-left:3.9em;
       }
       @media only screen and (min-width: 992px) {
-              padding-left:2.9em;
+//              padding-left:2.9em;
+              padding-left:5em;
       }
 }
 
@@ -54,13 +66,44 @@ body > header h1:before {
       left:0em;
       right:0;
       top:1.0em;
-      height:136px;
-      width:200px;
+//      height:136px;
+//      width:200px;
       overflow:hidden;
-      text-align:right;
-      background-image:url('/images/Green-ILC-logo-project2-small.png');
-      background-repeat:no-repeat;
+	  text-align: center;
+
+      @media only screen and (min-width: 216px) {
+             text-align:center;
+              top:.16em;
+      }
       @media only screen and (min-width: 432px) {
+//              text-align:center;
+              top:.32em;
+      }
+      @media only screen and (min-width: 768px) {
+              left:.75em;
+      }
+}
+
+body > header h2:before {
+      content:"";
+      position:absolute;
+      left:0px;
+      right:0;
+      top:1.0em;
+//      height:136px;
+//      width:200px;
+      overflow:hidden;
+//	  text-align: center;
+
+      @media only screen and (min-width: 216px) {
+      padding-left:0px;
+             left:0px;
+             text-align:left;
+              top:.16em;
+      }
+      @media only screen and (min-width: 432px) {
+              padding-left:0px;
+//              text-align:center;
               top:.32em;
       }
       @media only screen and (min-width: 768px) {

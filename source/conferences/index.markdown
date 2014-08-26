@@ -11,6 +11,14 @@ The following links list the various conferences/workshops or meeting related to
 
 ### Conferences/Workshops
 
+#### Upcoming Events
+
+|Title|Place|Date|
+|----------------|
+|[LCWS 2014 Linear Collider Workshop Series](http://lcws14.vinca.rs/welcome/)|Belgrade (Serbia)|Oct. 6-10, 2014|
+|[HF 2014](http://hf2014.ihep.ac.cn/)|Beijing (China)|Oct. 9-12, 2014|
+|[11th ICFA Seminar](http://indico.ihep.ac.cn/conferenceDisplay.py?confId=3867)|Beijing (China)|Oct. 27-30, 2014|
+
 #### Past Events
 
 |Title|Place|Date|
@@ -19,14 +27,6 @@ The following links list the various conferences/workshops or meeting related to
 |[Energy for sustainable science II](https://indico.cern.ch/event/245432/)|CERN, Geneva (Switzerland)|Oct. 23-25, 2013|
 |[AWLC 2014, Americas Workshop on Linear Colliders](https://indico.hep.anl.gov/indico/conferenceDisplay.py?confId=319)|Fermilab Chicago (USA)|May 12-016, 2014|
 |-------------|||
-
-#### Upcoming Events
-
-|Title|Place|Date|
-|----------------|
-|[LCWS 2014 Linear Collider Workshop Series](http://lcws14.vinca.rs/welcome/)|Belgrade (Serbia)|Oct. 6-10, 2014|
-|[HF 2014](http://hf2014.ihep.ac.cn/)|Beijing (China)|Oct. 9-12, 2014|
-|[11th ICFA Seminar](http://indico.ihep.ac.cn/conferenceDisplay.py?confId=3867)|Beijing (China)|Oct. 27-30, 2014|
 
 ### Meetings
 

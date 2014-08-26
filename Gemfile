@@ -21,6 +21,8 @@ group :development do
   gem 'octopress-popular-posts'
   gem 'octopress-hooks'
   gem 'octopress-date-format'
+  gem 'octopress-linkblog'
+  gem 'thin'
 end
 
 gem 'sinatra', '~> 1.4.2'
